@@ -1,0 +1,10 @@
+{
+  "name": "playhub-root",
+  "version": "1.0.0",
+  "description": "Play Hub - Full-Stack Modern Gaming & Arcade Platform",
+  "scripts": {
+    "start:server": "cd server && npm start",
+    "start:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build"
+  }
+}
